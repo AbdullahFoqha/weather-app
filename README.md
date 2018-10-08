@@ -5,4 +5,4 @@ it consumes apixu API to get Weather info
 
 ### Screen shot:
 
-![alt text](https://preview.ibb.co/njWyYp/Screenshot_20181008_172409.jpg)
+![alt text](https://image.ibb.co/nsRUOp/Screenshot_20181008_190604.jpg)
