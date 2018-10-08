@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="visibility">Visibility</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="slash">/</string>
+    <string name="choseCity">Choose City</string>
+    <string name="amman">Amman</string>
+    <string name="irbid">Irbid</string>
+    <string name="aqaba">Aqaba</string>
+    <string name="percentage">&#160;%</string>
+    <string name="double_format">%.0f</string>
+    <string name="http">http:</string>
+    <string name="kph">&#160;kph</string>
+    <string name="km">&#160;km</string>
+    <string name="comma">,&#160;</string>
+    <string name="celsius">%s°</string>
+    <string name="day_date_format">EEEE</string>
+</resources>

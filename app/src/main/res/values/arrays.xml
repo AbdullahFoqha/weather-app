@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="autosize_text_sizes">
+        <item>5sp</item>
+        <item>7sp</item>
+        <item>9sp</item>
+        <item>10sp</item>
+        <item>12sp</item>
+        <item>15sp</item>
+        <item>18sp</item>
+        <item>20sp</item>
+        <item>22sp</item>
+        <item>25sp</item>
+        <item>30sp</item>
+        <item>35sp</item>
+        <item>40sp</item>
+        <item>45sp</item>
+        <item>50sp</item>
+        <item>55sp</item>
+        <item>60sp</item>
+        <item>65sp</item>
+        <item>70sp</item>
+        <item>75sp</item>
+        <item>80sp</item>
+        <item>85sp</item>
+        <item>90sp</item>
+        <item>95sp</item>
+        <item>100sp</item>
+        <item>105sp</item>
+        <item>120sp</item>
+        <item>125sp</item>
+        <item>130sp</item>
+        <item>135sp</item>
+        <item>140sp</item>
+        <item>145sp</item>
+        <item>150sp</item>
+        <item>155sp</item>
+        <item>160sp</item>
+        <item>165sp</item>
+        <item>170sp</item>
+        <item>175sp</item>
+        <item>180sp</item>
+        <item>185sp</item>
+        <item>190sp</item>
+        <item>195sp</item>
+        <item>200sp</item>
+        <item>205sp</item>
+    </array>
+
+    <string-array name="cities_array" >
+        <item>Amman</item>
+        <item>Irbid</item>
+        <item>Aqaba</item>
+    </string-array>
+</resources>
